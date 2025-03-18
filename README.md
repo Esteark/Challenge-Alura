@@ -38,7 +38,7 @@ Al hacer clic en el botón **Sortear Amigo**, un nombre será seleccionado aleat
 
 1. Clona este repositorio a tu máquina local:
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/Esteark/Challenge-Alura.git
    ```
 2. Navega al directorio del proyecto:
 
